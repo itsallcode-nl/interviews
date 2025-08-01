@@ -1,19 +1,19 @@
 [
   {
     "ix": 1,
-    "ppu": 50,
+    "price": 50,
     "quantity": 6,
     "cat": 6
   },
   {
     "ix": 2,
-    "ppu": 24,
+    "price": 24,
     "quantity": 16,
     "cat": 2
   },
   {
     "ix": 3,
-    "ppu": 70,
+    "price": 70,
     "quantity": 2,
     "cat": 2
   }
